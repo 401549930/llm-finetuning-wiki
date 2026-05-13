@@ -25,3 +25,9 @@ Thumbs.db
 
 # Environment
 .env
+
+# 二进制/临时文件
+*.base
+*.bin
+*.pt
+*.pth
